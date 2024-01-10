@@ -9,6 +9,7 @@
     ],
     "website": "https://github.com/pandaznetwork/Adlinkflyshortnerbot",
     "repository": "https://github.com/pandaznetwork/Adlinkflyshortnerbot",
+    "logo": "https://ibb.co/kMVxrCj",
     "env": {
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
