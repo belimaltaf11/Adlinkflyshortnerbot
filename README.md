@@ -23,7 +23,8 @@ Make Your Own Short link Bot for your shortner website running on adlinkfly scri
 
 ### Features
 
-Fully customisable.
-Customisable Welcome messages.
-Bulk Short Link Support.
-Replace original link with shorted link in post.
+- Fully customisable.
+- Customisable Welcome messages.
+- Bulk Short Link Support.
+- Replace original link with shorted link in post.
+
