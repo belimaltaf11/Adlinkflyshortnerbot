@@ -20,3 +20,10 @@ Make Your Own Short link Bot for your shortner website running on adlinkfly scri
 
 * `SUPPORT_GROUP`: Your support group telegram link.
 * `UPDATES_CHANNEL`: Your updates channel telegram link.
+
+### Features
+
+Fully customisable.
+Customisable Welcome messages.
+Bulk Short Link Support.
+Replace original link with shorted link in post.
