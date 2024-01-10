@@ -1,0 +1,59 @@
+{
+    "name": "AdLinkFly Shortener Bot",
+    "description": "Make Your Own Short link Bot for your shortner website running on adlinkfly script",
+    "keywords": [
+        "telegram",
+        "short link",
+        "AdLinkFly Shortener Bot",
+        "Telegram Shortener Bot"
+    ],
+    "website": "https://github.com/pandaznetwork/Adlinkflyshortnerbot",
+    "repository": "https://github.com/pandaznetwork/Adlinkflyshortnerbot",
+    "env": {
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "required": true
+        },
+        "API_KEY": {
+            "description": "5f82d8793633efb1268e8a4d3e7b4911e217d20a",
+            "required": true
+        },
+        "API_URL": {
+            "description": "https://pandaznetwork.com/api",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Get it from @botfather",
+            "required": true
+        },
+        "WEB_NAME": {
+            "description": "Your Website Name For Example: PandazNetwork",
+            "required": true
+        },
+        "SUPPORT_GROUP": {
+            "description": "https://t.me/pandaztalks",
+            "required": false
+        },
+        "UPDATES_CHANNEL": {
+            "description": "https://t.me/pandaznetwork",
+            "required": false
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "heroku-22"
+}
