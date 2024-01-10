@@ -1,4 +1,4 @@
-# Link Shortener
+# AdLinkFly Link Shortner Telegram Bot
 Make Your Own Short link Bot for your shortner website running on adlinkfly script.
 
 ### Installation
