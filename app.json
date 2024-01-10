@@ -19,11 +19,11 @@
             "required": true
         },
         "API_KEY": {
-            "description": "5f82d8793633efb1268e8a4d3e7b4911e217d20a",
+            "description": "For Example: 5f82d8793633efb1268e8a4d3e7b4911e217d20a",
             "required": true
         },
         "API_URL": {
-            "description": "https://pandaznetwork.com/api",
+            "description": "For Example: https://pandaznetwork.com/api",
             "required": true
         },
         "BOT_TOKEN": {
@@ -35,11 +35,11 @@
             "required": true
         },
         "SUPPORT_GROUP": {
-            "description": "https://t.me/pandaztalks",
+            "description": "For Example: https://t.me/pandaztalks",
             "required": false
         },
         "UPDATES_CHANNEL": {
-            "description": "https://t.me/pandaznetwork",
+            "description": "For Example: https://t.me/pandaznetwork",
             "required": false
         }
     },
